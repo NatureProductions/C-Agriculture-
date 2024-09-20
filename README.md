@@ -1,17 +1,20 @@
-<h1>Photoshop </h1>
+<h1>RURAL DEVELOPMENT AREAS (RDA)</h1>
 
 <h2>Description</h2>
-The following project are posts and logos that i made for a number of companies .
+This is a C++ program that about a government Agricultural system. Is system is for famers
+where where they will buy seeds and order tractors for cultivation. Users will register to the 
+system and they will be able to access the system service it provides.
 <br />
 
 
 
 <h2>Application Used</h2>
 
+-	<b>Dev</b> 
 
+<h2>Languages used </h2>
 
--	<b>Adobe Photoshop</b> 
-
+-	<b>C++</b> 
 
 
 <h2>Program walk-through:</h2>
