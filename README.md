@@ -63,9 +63,33 @@ know their customers and easy research if needed. : <br/>
 
 
 
-<h2>The are many other posts and logos i made for deferent people and businesses.<h2/>
-<br />
+<h2>Let say the user choose Lion seeds (maize) information about that seeds 
+  will be displayed as shown.<h2/>
+
+   ![image](https://github.com/user-attachments/assets/120cb303-ce94-4b72-951a-945150a02389)
 
 <br />
 
-<br/>
+
+<h2>If user accepts buying the the seeds. Transport option will be displayed 
+  whether user need transportation or not.<h2/>
+
+   ![image](https://github.com/user-attachments/assets/20173131-584b-46a9-89e1-164c8b0bf4e5)
+
+<br />
+<h2>This is payment processing .<h2/>
+
+   ![image](https://github.com/user-attachments/assets/aa9c885d-1c74-4cee-94b6-c629d5a8d6e7)
+ 
+![image](https://github.com/user-attachments/assets/90d69137-5c08-4f20-b04e-800a13388847)
+
+<br />
+<h2>If payment was successful this will display showing a congratulations message 
+  together with the exit option which will take you to the main menu<h2/>
+
+   ![image](https://github.com/user-attachments/assets/0ce051a8-df61-4297-a5ef-6d766f79b89b)
+
+
+<br />
+
+<br
