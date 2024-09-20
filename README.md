@@ -23,10 +23,10 @@ system and they will be able to access the system service it provides.
 
 <p align=”center”>
 
-Prospect Dreamer is a company focust on talent shows and fun days, so one day 
-they asked me to make them a post for their events. So i came up with this: <br/>
-![image](https://github.com/user-attachments/assets/b65e6278-f1fc-463c-97bf-afc50c326207)
+This is the first page where the user will register. This will help the company to 
+know their customers and easy research if needed. : <br/>
 
+![image](https://github.com/user-attachments/assets/cb560371-7be1-4276-8678-c7656a07b1b0)
 
 
 
@@ -34,8 +34,10 @@ they asked me to make them a post for their events. So i came up with this: <br/
 
 <br />
 
-<h2/>This is the second post showing guests: <h2/> <br/>
-![image](https://github.com/user-attachments/assets/4ac605cd-fcff-47a3-94c3-cb0e95ccf7c2)
+<h2/>This is the is the Wellcome pages were the user will choose the action <h2/> </br>
+
+![image](https://github.com/user-attachments/assets/6b316863-cb1c-40de-93ea-178c3d82c1f7)
+
 
 
 
