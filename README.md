@@ -41,10 +41,10 @@ This is how customer to will register. <br/>
 
 <br />
 
-<h2/>This is the is the Wellcome page or the main manu of the system were the user will choose wheter 
+This is the is the Wellcome page or the main manu of the system were the user will choose wheter 
   to exit or to access the system services.
   <br /><br />
-  It suppose to look like this, with only two options<h2/> </br>
+  It suppose to look like this, with only two options </br>
 
 ![image](https://github.com/user-attachments/assets/6b316863-cb1c-40de-93ea-178c3d82c1f7)
 
