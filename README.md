@@ -52,7 +52,7 @@ This is how customer to will register. <br/>
 
 <br />
 
-<h2>Here the user user has three options.  He or has to choose what products or services they want<h2/><br/>
+Here the user user has three options.  He or has to choose what products or services they want<br/>
 
 ![image](https://github.com/user-attachments/assets/1bee52e9-c985-4fa2-b667-d4a2749781c8)
 
@@ -62,36 +62,36 @@ This is how customer to will register. <br/>
 
 <br />
 
-<h2/>After there user has chosen, let he chose seeds. three types of seed 
-  will be displayed the user has to choose what he / she want.<h2/> <br/>
+After there user has chosen, let he chose seeds. three types of seed 
+  will be displayed the user has to choose what he / she want.<br/>
 
 ![image](https://github.com/user-attachments/assets/66727870-06f9-497f-b159-b386ba1c7b78)
 
 
 
-<h2>Let say the user choose Lion seeds (maize) information about that seeds 
-  will be displayed as shown.<h2/>
+Let say the user choose Lion seeds (maize) information about that seeds 
+  will be displayed as shown.
 
    ![image](https://github.com/user-attachments/assets/120cb303-ce94-4b72-951a-945150a02389)
 
 <br />
 
 
-<h2>If user accepts buying the the seeds. Transport option will be displayed 
-  whether user need transportation or not.<h2/>
+If user accepts buying the the seeds. Transport option will be displayed 
+  whether user need transportation or not.
 
    ![image](https://github.com/user-attachments/assets/20173131-584b-46a9-89e1-164c8b0bf4e5)
 
 <br />
-<h2>This is payment processing .<h2/>
+This is payment processing .
 
    ![image](https://github.com/user-attachments/assets/aa9c885d-1c74-4cee-94b6-c629d5a8d6e7)
  
 ![image](https://github.com/user-attachments/assets/90d69137-5c08-4f20-b04e-800a13388847)
 
 <br />
-<h2>If payment was successful this will display showing a congratulations message 
-  together with the exit option which will take you to the main menu<h2/>
+If payment was successful this will display showing a congratulations message 
+  together with the exit option which will take you to the main menu.
 
    ![image](https://github.com/user-attachments/assets/0ce051a8-df61-4297-a5ef-6d766f79b89b)
 
