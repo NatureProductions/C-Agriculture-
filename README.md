@@ -32,7 +32,7 @@ keep records for them. Every customer will be recorded in the system.
 
 This is the first page where the user will register. This will help the company to 
 know their customers and easy research if needed. Only name, surname and location
-will be needed from the customer. <br />
+will be needed from the customer. <br /><br />
 This is how customer to will register. <br/>
 
 ![image](https://github.com/user-attachments/assets/cb560371-7be1-4276-8678-c7656a07b1b0)
@@ -41,13 +41,12 @@ This is how customer to will register. <br/>
 
 <br />
 
-<h2/>This is the is the Wellcome pages were the user will choose the action <h2/> </br>
+<h2/>This is the is the Wellcome page or the main manu of the system were the user will choose wheter 
+  to exit or to access the system services.
+  <br /><br />
+  It suppose to look like this, with only two options<h2/> </br>
 
 ![image](https://github.com/user-attachments/assets/6b316863-cb1c-40de-93ea-178c3d82c1f7)
-
-
-
-
 
 <br />
 
