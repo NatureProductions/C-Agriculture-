@@ -8,7 +8,7 @@ for rural people who strugle for farming materials like the seeds and tractors. 
 programm that provide this needs to the people. The issue is that people have to walk all the way
 to register and then wait for their order. So this is time consuming and quite expensive for the people
 as they have to travel to the ware house and at the same time they don't gat their orders same day.
-<br />
+<br /><br />
 Making this system might help the people to save their time and energy, doing everything at the 
 confort of their home. They will be able to buy seeds they want and also manure. Also tractor for
 cultivation, their arders  will be made online. This will also help the company as it is going to
@@ -32,12 +32,10 @@ keep records for them. Every customer will be recorded in the system.
 
 This is the first page where the user will register. This will help the company to 
 know their customers and easy research if needed. Only name, surname and location
-will be needed from the customer. 
+will be needed from the customer. <br />
 This is how customer to will register. <br/>
 
 ![image](https://github.com/user-attachments/assets/cb560371-7be1-4276-8678-c7656a07b1b0)
-
-
 
 <br />
 
